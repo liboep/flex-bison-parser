@@ -1,0 +1,15 @@
+program p;
+var x,y,z:integer;f,r,t:boolean;
+
+function f(x,y,z:integer;f:boolean):integer;
+var c:integer;
+begin
+while y=2 do
+if x<4 then z:=3
+end
+;
+begin
+while b=3 do
+if y>5 then m:=5
+end
+.
